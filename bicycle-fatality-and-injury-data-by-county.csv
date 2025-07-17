@@ -1,0 +1,291 @@
+County,Highway Type,Total,Fatality,Injury
+ALAMEDA,Conventional,20,0,20
+ALAMEDA,Expressway,0,0,0
+ALAMEDA,Freeway,5,1,4
+ALAMEDA,One-Way City Street,0,0,0
+ALAMEDA,TOTAL,25,1,24
+ALPINE,Conventional,1,0,1
+ALPINE,Expressway,0,0,0
+ALPINE,Freeway,0,0,0
+ALPINE,One-Way City Street,0,0,0
+ALPINE,TOTAL,1,0,1
+AMADOR,Conventional,2,0,2
+AMADOR,Expressway,0,0,0
+AMADOR,Freeway,0,0,0
+AMADOR,One-Way City Street,0,0,0
+AMADOR,TOTAL,2,0,2
+BUTTE,Conventional,5,0,5
+BUTTE,Expressway,2,0,2
+BUTTE,Freeway,0,0,0
+BUTTE,One-Way City Street,0,0,0
+BUTTE,TOTAL,7,0,7
+CALAVERAS,Conventional,2,0,2
+CALAVERAS,Expressway,0,0,0
+CALAVERAS,Freeway,0,0,0
+CALAVERAS,One-Way City Street,0,0,0
+CALAVERAS,TOTAL,2,0,2
+COLUSA,Conventional,0,0,0
+COLUSA,Expressway,0,0,0
+COLUSA,Freeway,0,0,0
+COLUSA,One-Way City Street,0,0,0
+COLUSA,TOTAL,0,0,0
+CONTRA COSTA,Conventional,1,0,1
+CONTRA COSTA,Expressway,0,0,0
+CONTRA COSTA,Freeway,1,0,1
+CONTRA COSTA,One-Way City Street,0,0,0
+CONTRA COSTA,TOTAL,2,0,2
+DEL NORTE,Conventional,0,0,0
+DEL NORTE,Expressway,0,0,0
+DEL NORTE,Freeway,0,0,0
+DEL NORTE,One-Way City Street,0,0,0
+DEL NORTE,TOTAL,0,0,0
+EL DORADO,Conventional,5,0,5
+EL DORADO,Expressway,0,0,0
+EL DORADO,Freeway,0,0,0
+EL DORADO,One-Way City Street,0,0,0
+EL DORADO,TOTAL,5,0,5
+FRESNO,Conventional,1,0,1
+FRESNO,Expressway,0,0,0
+FRESNO,Freeway,7,0,7
+FRESNO,One-Way City Street,0,0,0
+FRESNO,TOTAL,8,0,8
+GLENN,Conventional,0,0,0
+GLENN,Expressway,0,0,0
+GLENN,Freeway,0,0,0
+GLENN,One-Way City Street,0,0,0
+GLENN,TOTAL,0,0,0
+HUMBOLDT,Conventional,2,0,2
+HUMBOLDT,Expressway,0,0,0
+HUMBOLDT,Freeway,1,0,1
+HUMBOLDT,One-Way City Street,2,0,2
+HUMBOLDT,TOTAL,5,0,5
+IMPERIAL,Conventional,2,0,2
+IMPERIAL,Expressway,1,0,1
+IMPERIAL,Freeway,0,0,0
+IMPERIAL,One-Way City Street,0,0,0
+IMPERIAL,TOTAL,3,0,3
+INYO,Conventional,2,0,2
+INYO,Expressway,0,0,0
+INYO,Freeway,0,0,0
+INYO,One-Way City Street,0,0,0
+INYO,TOTAL,2,0,2
+KERN,Conventional,3,1,2
+KERN,Expressway,0,0,0
+KERN,Freeway,2,0,2
+KERN,One-Way City Street,0,0,0
+KERN,TOTAL,5,1,4
+KINGS,Conventional,0,0,0
+KINGS,Expressway,0,0,0
+KINGS,Freeway,0,0,0
+KINGS,One-Way City Street,0,0,0
+KINGS,TOTAL,0,0,0
+LAKE,Conventional,3,0,3
+LAKE,Expressway,0,0,0
+LAKE,Freeway,0,0,0
+LAKE,One-Way City Street,0,0,0
+LAKE,TOTAL,3,0,3
+LASSEN,Conventional,2,0,2
+LASSEN,Expressway,0,0,0
+LASSEN,Freeway,0,0,0
+LASSEN,One-Way City Street,0,0,0
+LASSEN,TOTAL,2,0,2
+LOS ANGELES,Conventional,54,1,53
+LOS ANGELES,Expressway,1,0,1
+LOS ANGELES,Freeway,32,2,30
+LOS ANGELES,One-Way City Street,0,0,0
+LOS ANGELES,TOTAL,87,3,84
+MADERA,Conventional,1,0,1
+MADERA,Expressway,0,0,0
+MADERA,Freeway,0,0,0
+MADERA,One-Way City Street,0,0,0
+MADERA,TOTAL,1,0,1
+MARIN,Conventional,4,0,4
+MARIN,Expressway,0,0,0
+MARIN,Freeway,6,0,6
+MARIN,One-Way City Street,0,0,0
+MARIN,TOTAL,10,0,10
+MARIPOSA,Conventional,0,0,0
+MARIPOSA,Expressway,0,0,0
+MARIPOSA,Freeway,0,0,0
+MARIPOSA,One-Way City Street,0,0,0
+MARIPOSA,TOTAL,0,0,0
+MENDOCINO,Conventional,0,0,0
+MENDOCINO,Expressway,1,0,1
+MENDOCINO,Freeway,1,0,1
+MENDOCINO,One-Way City Street,0,0,0
+MENDOCINO,TOTAL,2,0,2
+MERCED,Conventional,3,0,3
+MERCED,Expressway,0,0,0
+MERCED,Freeway,0,0,0
+MERCED,One-Way City Street,0,0,0
+MERCED,TOTAL,3,0,3
+MODOC,Conventional,0,0,0
+MODOC,Expressway,0,0,0
+MODOC,Freeway,0,0,0
+MODOC,One-Way City Street,0,0,0
+MODOC,TOTAL,0,0,0
+MONO,Conventional,0,0,0
+MONO,Expressway,1,0,1
+MONO,Freeway,0,0,0
+MONO,One-Way City Street,0,0,0
+MONO,TOTAL,1,0,1
+MONTEREY,Conventional,1,0,1
+MONTEREY,Expressway,0,0,0
+MONTEREY,Freeway,2,0,2
+MONTEREY,One-Way City Street,0,0,0
+MONTEREY,TOTAL,3,0,3
+NAPA,Conventional,2,0,2
+NAPA,Expressway,0,0,0
+NAPA,Freeway,0,0,0
+NAPA,One-Way City Street,0,0,0
+NAPA,TOTAL,2,0,2
+NEVADA,Conventional,1,0,1
+NEVADA,Expressway,1,0,1
+NEVADA,Freeway,0,0,0
+NEVADA,One-Way City Street,0,0,0
+NEVADA,TOTAL,2,0,2
+ORANGE,Conventional,59,0,59
+ORANGE,Expressway,1,0,1
+ORANGE,Freeway,25,0,25
+ORANGE,One-Way City Street,0,0,0
+ORANGE,TOTAL,85,0,85
+PLACER,Conventional,7,0,7
+PLACER,Expressway,1,0,1
+PLACER,Freeway,2,1,1
+PLACER,One-Way City Street,0,0,0
+PLACER,TOTAL,10,1,9
+PLUMAS,Conventional,0,0,0
+PLUMAS,Expressway,0,0,0
+PLUMAS,Freeway,0,0,0
+PLUMAS,One-Way City Street,0,0,0
+PLUMAS,TOTAL,0,0,0
+RIVERSIDE,Conventional,2,0,2
+RIVERSIDE,Expressway,0,0,0
+RIVERSIDE,Freeway,3,0,3
+RIVERSIDE,One-Way City Street,0,0,0
+RIVERSIDE,TOTAL,5,0,5
+SACRAMENTO,Conventional,0,0,0
+SACRAMENTO,Expressway,0,0,0
+SACRAMENTO,Freeway,9,1,8
+SACRAMENTO,One-Way City Street,0,0,0
+SACRAMENTO,TOTAL,9,1,8
+SAN BENITO,Conventional,0,0,0
+SAN BENITO,Expressway,1,0,1
+SAN BENITO,Freeway,0,0,0
+SAN BENITO,One-Way City Street,0,0,0
+SAN BENITO,TOTAL,1,0,1
+SAN BERNARDINO,Conventional,12,1,11
+SAN BERNARDINO,Expressway,1,0,1
+SAN BERNARDINO,Freeway,14,2,12
+SAN BERNARDINO,One-Way City Street,0,0,0
+SAN BERNARDINO,TOTAL,27,3,24
+SAN DIEGO,Conventional,9,0,9
+SAN DIEGO,Expressway,3,0,3
+SAN DIEGO,Freeway,24,0,24
+SAN DIEGO,One-Way City Street,1,0,1
+SAN DIEGO,TOTAL,37,0,37
+SAN FRANCISCO,Conventional,0,0,0
+SAN FRANCISCO,Expressway,0,0,0
+SAN FRANCISCO,Freeway,2,1,1
+SAN FRANCISCO,One-Way City Street,0,0,0
+SAN FRANCISCO,TOTAL,2,1,1
+SAN JOAQUIN,Conventional,2,1,1
+SAN JOAQUIN,Expressway,0,0,0
+SAN JOAQUIN,Freeway,3,2,1
+SAN JOAQUIN,One-Way City Street,0,0,0
+SAN JOAQUIN,TOTAL,5,3,2
+SAN LUIS OBISPO,Conventional,1,0,1
+SAN LUIS OBISPO,Expressway,0,0,0
+SAN LUIS OBISPO,Freeway,1,0,1
+SAN LUIS OBISPO,One-Way City Street,0,0,0
+SAN LUIS OBISPO,TOTAL,2,0,2
+SAN MATEO,Conventional,29,1,28
+SAN MATEO,Expressway,1,0,1
+SAN MATEO,Freeway,2,0,2
+SAN MATEO,One-Way City Street,0,0,0
+SAN MATEO,TOTAL,32,1,31
+SANTA BARBARA,Conventional,16,0,16
+SANTA BARBARA,Expressway,3,0,3
+SANTA BARBARA,Freeway,6,0,6
+SANTA BARBARA,One-Way City Street,0,0,0
+SANTA BARBARA,TOTAL,25,0,25
+SANTA CLARA,Conventional,23,0,23
+SANTA CLARA,Expressway,0,0,0
+SANTA CLARA,Freeway,20,2,18
+SANTA CLARA,One-Way City Street,0,0,0
+SANTA CLARA,TOTAL,43,2,41
+SANTA CRUZ,Conventional,15,0,15
+SANTA CRUZ,Expressway,3,0,3
+SANTA CRUZ,Freeway,1,0,1
+SANTA CRUZ,One-Way City Street,0,0,0
+SANTA CRUZ,TOTAL,19,0,19
+SHASTA,Conventional,4,1,3
+SHASTA,Expressway,0,0,0
+SHASTA,Freeway,0,0,0
+SHASTA,One-Way City Street,0,0,0
+SHASTA,TOTAL,4,1,3
+SIERRA,Conventional,0,0,0
+SIERRA,Expressway,0,0,0
+SIERRA,Freeway,0,0,0
+SIERRA,One-Way City Street,0,0,0
+SIERRA,TOTAL,0,0,0
+SISKIYOU,Conventional,0,0,0
+SISKIYOU,Expressway,0,0,0
+SISKIYOU,Freeway,0,0,0
+SISKIYOU,One-Way City Street,0,0,0
+SISKIYOU,TOTAL,0,0,0
+SOLANO,Conventional,1,0,1
+SOLANO,Expressway,0,0,0
+SOLANO,Freeway,1,0,1
+SOLANO,One-Way City Street,0,0,0
+SOLANO,TOTAL,2,0,2
+SONOMA,Conventional,5,0,5
+SONOMA,Expressway,0,0,0
+SONOMA,Freeway,1,0,1
+SONOMA,One-Way City Street,0,0,0
+SONOMA,TOTAL,6,0,6
+STANISLAUS,Conventional,19,2,17
+STANISLAUS,Expressway,0,0,0
+STANISLAUS,Freeway,1,0,1
+STANISLAUS,One-Way City Street,0,0,0
+STANISLAUS,TOTAL,20,2,18
+SUTTER,Conventional,2,0,2
+SUTTER,Expressway,1,0,1
+SUTTER,Freeway,0,0,0
+SUTTER,One-Way City Street,0,0,0
+SUTTER,TOTAL,3,0,3
+TEHAMA,Conventional,3,0,3
+TEHAMA,Expressway,0,0,0
+TEHAMA,Freeway,0,0,0
+TEHAMA,One-Way City Street,0,0,0
+TEHAMA,TOTAL,3,0,3
+TRINITY,Conventional,1,0,1
+TRINITY,Expressway,0,0,0
+TRINITY,Freeway,0,0,0
+TRINITY,One-Way City Street,0,0,0
+TRINITY,TOTAL,1,0,1
+TULARE,Conventional,5,0,5
+TULARE,Expressway,3,0,3
+TULARE,Freeway,5,0,5
+TULARE,One-Way City Street,0,0,0
+TULARE,TOTAL,13,0,13
+TUOLUMNE,Conventional,0,0,0
+TUOLUMNE,Expressway,0,0,0
+TUOLUMNE,Freeway,0,0,0
+TUOLUMNE,One-Way City Street,0,0,0
+TUOLUMNE,TOTAL,0,0,0
+VENTURA,Conventional,18,0,18
+VENTURA,Expressway,0,0,0
+VENTURA,Freeway,6,1,5
+VENTURA,One-Way City Street,0,0,0
+VENTURA,TOTAL,24,1,23
+YOLO,Conventional,0,0,0
+YOLO,Expressway,0,0,0
+YOLO,Freeway,3,0,3
+YOLO,One-Way City Street,0,0,0
+YOLO,TOTAL,3,0,3
+YUBA,Conventional,3,0,3
+YUBA,Expressway,1,0,1
+YUBA,Freeway,0,0,0
+YUBA,One-Way City Street,0,0,0
+YUBA,TOTAL,4,0,4
